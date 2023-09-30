@@ -114,14 +114,13 @@ footer{
 
 #about{
   position: relative;
+
 }
 
-."about text-block" {
+.method text-block {
   position: absolute;
   top: 10px;
   left: 10px; 
-   
-  padding: 5px;
 }
 
 /*ok*/
